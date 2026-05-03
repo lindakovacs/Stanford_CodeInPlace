@@ -14,16 +14,17 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 ## Repository Structure
 - `BeforeClass/`: This directory contains assignments that were submitted as part of the selection process before joining the course.
 - `Lesson1/`: Welcome to Karel
-### Textbook: 
+- Textbook: 
 [Introducing Karel](https://codeinplace.stanford.edu/cip6/books/karelreader/introducing-karel)
 [Programming Karel](https://codeinplace.stanford.edu/cip6/books/karelreader/programming)
 [Defining New Functions](https://codeinplace.stanford.edu/cip6/books/karelreader/new-functions)
 
 - `Lesson2/`: For Loops
-### Textbook: 
+- Textbook: 
 [For Loops](https://codeinplace.stanford.edu/cip6/books/karelreader/for-loops)
 
 - `Lesson3/`: While Loops and If Statements
+- Textbook: 
 [While Loops](https://codeinplace.stanford.edu/cip6/books/karelreader/while-loops)
 [Conditionals](https://codeinplace.stanford.edu/cip6/books/karelreader/conditionals)
 
