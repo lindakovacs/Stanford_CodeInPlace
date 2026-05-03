@@ -28,12 +28,18 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 [While Loops](https://codeinplace.stanford.edu/cip6/books/karelreader/while-loops)
 [Conditionals](https://codeinplace.stanford.edu/cip6/books/karelreader/conditionals)
 
+- `Lesson4/`: Art of Problem Solving
+- Textbook: 
+[Stepwise Refinement](https://codeinplace.stanford.edu/cip6/books/karelreader/refinement)
 
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
 
 ### Week 2
 In this week, we delved deeper into Karel programming. Week2 includes assignments and exercises that challenged our ability to decompose large problems into smaller ones, which is a fundamental skill in programming.
+
+### Week 3
+This week marked a fresh new chapter in our coding journey, with a shift towards console programming as the central focus. We bid farewell to Karel and started exploring Python programming in the console environment. Thrilling times ahead! 🌱💙🎉
 
 *I'm happy to embrace this learning opportunity and continue building my programming skills with Code in Place. Through this repository, I aim to showcase my progress and the knowledge gained throughout the course.*
 
