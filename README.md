@@ -3,34 +3,39 @@
 Welcome to my repository documenting my learning journey through Code in Place! This repository contains my weekly assignment code, section meet assignments, lecture worked example files, and is organized into week folders. 
 Code in Place is a free 6-week introductory programming course that focuses on teaching Python, based on the material from Stanford University's CS106A course.
 
-[Karel Documentation](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html)
-
-[Style Guide](https://codeinplace.stanford.edu/public/textbook/style-guide)
-
 ## What I'll Gain
 
 In my pursuit of enhancing my programming skills and deepening my understanding of Python, I am actively participating in Code in Place. Although I already have some programming experience, this course offers a structured learning path and valuable resources to further develop my proficiency.
 
 ## Repository Structure
-- `BeforeClass/`: This directory contains assignments that were submitted as part of the selection process before joining the course.
-- `Lesson1/`: Welcome to Karel
-- Textbook: 
-[Introducing Karel](https://codeinplace.stanford.edu/cip6/books/karelreader/introducing-karel)
-[Programming Karel](https://codeinplace.stanford.edu/cip6/books/karelreader/programming)
-[Defining New Functions](https://codeinplace.stanford.edu/cip6/books/karelreader/new-functions)
+### `BeforeClass/`: This directory contains assignments that were submitted as part of the selection process before joining the course.
+- [Karel Documentation](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html)
+- [Style Guide](https://codeinplace.stanford.edu/public/textbook/style-guide)
 
-- `Lesson2/`: For Loops
+### `Lesson1/`: Welcome to Karel
 - Textbook: 
-[For Loops](https://codeinplace.stanford.edu/cip6/books/karelreader/for-loops)
+- [Introducing Karel](https://codeinplace.stanford.edu/cip6/books/karelreader/introducing-karel)
+- [Programming Karel](https://codeinplace.stanford.edu/cip6/books/karelreader/programming)
+- [Defining New Functions](https://codeinplace.stanford.edu/cip6/books/karelreader/new-functions)
 
-- `Lesson3/`: While Loops and If Statements
+### `Lesson2/`: For Loops
 - Textbook: 
-[While Loops](https://codeinplace.stanford.edu/cip6/books/karelreader/while-loops)
-[Conditionals](https://codeinplace.stanford.edu/cip6/books/karelreader/conditionals)
+- [For Loops](https://codeinplace.stanford.edu/cip6/books/karelreader/for-loops)
 
-- `Lesson4/`: Art of Problem Solving
+### `Lesson3/`: While Loops and If Statements
 - Textbook: 
-[Stepwise Refinement](https://codeinplace.stanford.edu/cip6/books/karelreader/refinement)
+- [While Loops](https://codeinplace.stanford.edu/cip6/books/karelreader/while-loops)
+- [Conditionals](https://codeinplace.stanford.edu/cip6/books/karelreader/conditionals)
+
+### `Lesson4/`: Art of Problem Solving
+- Textbook: 
+- [Stepwise Refinement](https://codeinplace.stanford.edu/cip6/books/karelreader/refinement)
+
+### `Lesson5/`: Print and Input
+- Textbook:
+- [Introduction to Python](https://codeinplace.stanford.edu/cip6/textbook/welcome-to-python)
+- [Print](https://codeinplace.stanford.edu/cip6/textbook/print)
+- [User Input](https://codeinplace.stanford.edu/cip6/textbook/user-input)
 
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
