@@ -1,6 +1,9 @@
-# My Code in Place - Stanford University Learning Journey 🚀
+# Code in Place - Stanford University: My Learning Journey 🚀
 
-Welcome to my repository documenting my learning journey through Code in Place! This repository contains my weekly assignment code, section meet assignments, lecture worked example files, and is organized into week folders. 
+Welcome to my repository documenting my learning journey through Code in Place! 
+
+This repository contains my weekly assignment code, section meet assignments, lecture worked example files, and is organized into week folders.
+
 Code in Place is a free 6-week introductory programming course that focuses on teaching Python, based on the material from Stanford University's CS106A course.
 
 ## What I'll Gain
