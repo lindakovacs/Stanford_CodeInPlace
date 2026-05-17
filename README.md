@@ -54,6 +54,9 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 - [Conditionals](https://codeinplace.stanford.edu/cip6/textbook/conditionals)
 - [Loops](https://codeinplace.stanford.edu/cip6/textbook/loops)
 
+### `Lesson9/`: For Loops in Python
+- Textbook:
+- [Loops](https://codeinplace.stanford.edu/cip6/textbook/loops)
 
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
