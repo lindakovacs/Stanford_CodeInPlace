@@ -58,6 +58,10 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 - Textbook:
 - [Loops](https://codeinplace.stanford.edu/cip6/textbook/loops)
 
+### `Lesson10/`: Graphics
+- Textbook:
+- [Basic Shapes](https://codeinplace.stanford.edu/cip6/textbook/basic-shapes)
+
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
 
