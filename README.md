@@ -62,6 +62,12 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 - Textbook:
 - [Basic Shapes](https://codeinplace.stanford.edu/cip6/textbook/basic-shapes)
 
+### `Lesson11/`: Functions
+- Textbook:
+- [Anatomy of a Function](https://codeinplace.stanford.edu/cip6/textbook/anatomy-of-a-function)
+- [Scope](https://codeinplace.stanford.edu/cip6/textbook/scope)
+- [Parameters](https://codeinplace.stanford.edu/cip6/textbook/parameters)
+
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
 
