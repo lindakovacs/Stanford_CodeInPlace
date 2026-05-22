@@ -15,8 +15,10 @@ def main():
 def draw_random_circle(canvas):
     x = random.randint(0,CANVAS_WIDTH)
     y = random.randint(0, CANVAS_HEIGHT)
+    size = random.randint( 20, 50)
     color = random_color()
-    canvas.create_oval(x, y, x + CIRCLE_SIZE, y + CIRCLE_SIZE, color)
+    # canvas.create_oval(x, y, x + CIRCLE_SIZE, y + CIRCLE_SIZE, color)
+    canvas.create_oval(x, y, x + size, y + size, color)
     
 def random_color():
     """
