@@ -68,6 +68,10 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 - [Scope](https://codeinplace.stanford.edu/cip6/textbook/scope)
 - [Parameters](https://codeinplace.stanford.edu/cip6/textbook/parameters)
 
+### `Lesson12/`: Lists
+- Textbook:
+- [Lists](https://codeinplace.stanford.edu/cip6/textbook/lists)
+
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
 
