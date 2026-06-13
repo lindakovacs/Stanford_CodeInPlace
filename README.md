@@ -90,6 +90,14 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 - Textbook:
 - [Update Functions](https://codeinplace.stanford.edu/cip6/textbook/update-functions)
 
+### `Final Project/`: Retro Ping Pong: Arcade Edition
+- [Retro Ping Pong: Arcade Edition](https://codeinplace.stanford.edu/cip6/share/aLqy9yKc4L9gzd0XoaaJ)
+
+A highly polished, arcade-style Ping Pong game built in Python. The game features a custom Dribbble-inspired color palette, a responsive AI opponent, and fluid physics-based paddle mechanics.  
+The visual experience is elevated beyond standard shapes through custom particle explosions for wall collisions, a falling confetti animation for the set win state, and an optical illusion flip-clock scoreboard that dynamically animates "tearing" away old numbers as points are scored.
+Developing this project involved deep iterative refinement, particularly in translating complex visual effects, like the 3D calendar flip, into rapid 2D canvas drawing commands, and carefully tuning the collision logic to prevent the ball from getting trapped in the paddles. 
+Players can control their paddle using either the mouse/touchpad or the keyboard (Up/Down arrow keys or W/S keys).
+
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
 
