@@ -86,6 +86,10 @@ In my pursuit of enhancing my programming skills and deepening my understanding 
 - Textbook:
 - [Animation](https://codeinplace.stanford.edu/cip6/textbook/animation)
 
+### `Lesson18/`: Information flow
+- Textbook:
+- [Update Functions](https://codeinplace.stanford.edu/cip6/textbook/update-functions)
+
 ### Week 1
 Week1 contains assignments and exercises covering the fundamentals of Karel and Python programming, projects and assignments focused on enhancing Karel's capabilities and practicing problem decomposition skills.
 
